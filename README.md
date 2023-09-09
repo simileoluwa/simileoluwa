@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/realsimileoluwa" target="blank"><img src="https://img.shields.io/twitter/follow/realsimileoluwa?logo=twitter&style=for-the-badge" alt="realsimileoluwa" /></a> </p>
 
-- 🔭 I’m currently working on **ALX**
+- 🔭 I’m currently learning at on **AltSchoolAfrica**
 
-- 🌱 I’m currently learning **Tailwind Css, Python, C**
+- 🌱 I’m currently learning **Tailwind Css, ReactJs, VueJs, and Javascript**
 
 - 👯 I’m looking to collaborate on **Frontend and Backend gigs**
 
@@ -19,7 +19,7 @@
 
 - 📝 I often write articles on [https://medium.com/@simileoluwa.oludare](https://medium.com/@simileoluwa.oludare)
 
-- 💬 Ask me about **Css, Typescript,Javascript, Python and React**
+- 💬 Ask me about **Css, Typescript, Javascript, ReactJs and NodeJs**
 
 - 📫 How to reach me **simileoluwa.oludare@gmail.com**
 
