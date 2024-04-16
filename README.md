@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simileoluwa</h1>
-<h3 align="center">A passionate fullstack engineer</h3>
+<h3 align="center">A passionate Frontend engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simileoluwa&label=Profile%20views&color=0e75b6&style=flat" alt="simileoluwa" /> </p>
 
@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/realsimileoluwa" target="blank"><img src="https://img.shields.io/twitter/follow/realsimileoluwa?logo=twitter&style=for-the-badge" alt="realsimileoluwa" /></a> </p>
 
-- 🔭 I’m currently learning at on **AltSchoolAfrica**
-
 - 🌱 I’m currently learning **Tailwind Css, ReactJs, VueJs, and Javascript**
 
-- 👯 I’m looking to collaborate on **Frontend and Backend gigs**
+- 👯 I’m looking to collaborate on **Frontend Dev. Gigs**
 
-- 🤝 I’m looking for help with **Internship**
+- 🤝 I’m looking for help with **Internship** or **Junior Level Role**
 
 - 👨‍💻 All of my projects are available at [https://github.com/simileoluwa/](https://github.com/simileoluwa/)
 
 - 📝 I often write articles on [https://medium.com/@simileoluwa.oludare](https://medium.com/@simileoluwa.oludare)
 
-- 💬 Ask me about **Css, Typescript, Javascript, ReactJs and NodeJs**
+- 💬 Ask me about **Css, Javascript, Typescript,  ReactJs, Vue Js, NodeJs and Technical Writing**
 
 - 📫 How to reach me **simileoluwa.oludare@gmail.com**
 
