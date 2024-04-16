@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/realsimileoluwa" target="blank"><img src="https://img.shields.io/twitter/follow/realsimileoluwa?logo=twitter&style=for-the-badge" alt="realsimileoluwa" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind Css, ReactJs, VueJs, and Javascript**
+- 🌱 Great at building with **Tailwind Css, ReactJs, VueJs, and Javascript**
 
 - 👯 I’m looking to collaborate on **Frontend Dev. Gigs**
 
