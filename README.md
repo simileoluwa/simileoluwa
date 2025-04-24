@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/deepselah" target="blank"><img src="https://img.shields.io/twitter/follow/:user" alt="x.com profile" /></a> </p>
 
-- 🌱 Great at using with **Kali Linux OS, Linux, Wireshark, Splunk and Javascript**
+- 🌱 Great at using **Kali Linux OS, Linux, Wireshark, Nmap, Splunk and Javascript**
 
 - 👯 I’m looking to collaborate on **Pentesting Gigs**
 
