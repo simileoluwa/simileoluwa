@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://x.com/deepselah" target="blank"><img src="https://img.shields.io/twitter/follow/:user" alt="x.com profile" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/deepselah" target="blank" rel="nofollow"><img src="https://img.shields.io/twitter/follow/:user" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/-@deepselah-1ca0f1?style=for-the-badge&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/setemiojo"></a></p>
+
+
 - 🌱 Great at using **Kali Linux OS, Linux, Wireshark, Nmap, Splunk and Javascript**
 
 - 👯 I’m looking to collaborate on **Pentesting Gigs**
