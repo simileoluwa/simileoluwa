@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simileoluwa" alt="simileoluwa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/realsimileoluwa" target="blank"><img src="https://img.shields.io/twitter/follow/realsimileoluwa?logo=twitter&style=for-the-badge" alt="realsimileoluwa" /></a> </p>
+<p align="left"> <a href="https://x.com/deepselah" target="blank"><img src="https://img.shields.io/twitter/follow/:user" alt="x.com profile" /></a> </p>
 
 - 🌱 Great at using with **Kali Linux OS, Linux, Wireshark, Splunk and Javascript**
 
