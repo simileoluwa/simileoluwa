@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simileoluwa</h1>
-<h3 align="center">A passionate Ethical Hacker | Pentester</h3>
+<h4 align="center">A passionate Ethical Hacker | Pentester</h4>
+<div>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/simileoluwa/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simileoluwa&label=Profile%20views&color=0e75b6&style=flat" alt="simileoluwa" /> </p>
 
